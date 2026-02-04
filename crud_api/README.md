@@ -1,7 +1,4 @@
-Great question 👍 — this line is **very important** in FastAPI.
-Let’s break it **slowly, line by line, in plain English**.
 
----
 
 ## 📌 The code
 
