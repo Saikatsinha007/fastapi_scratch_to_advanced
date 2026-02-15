@@ -1,0 +1,11 @@
+fastapi>=0.129.0
+uvicorn
+sqlmodel>=0.0.33
+passlib[bcrypt]
+alembic
+asyncpg
+python-dotenv
+python-jose[cryptography]
+pydantic-settings
+psycopg2-binary
+aiosqlite
